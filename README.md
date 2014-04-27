@@ -19,7 +19,7 @@ you can use it like the code below:
    }])
 
    //got the result
-   ["www.baidu.com","connected"]
+   ["www.aliyun.com","connected"]
 
    //get the result;
    ["192.168.0.1","disconnected"]
