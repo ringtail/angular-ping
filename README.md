@@ -3,8 +3,16 @@ angular-ping
 
 a implement of ping in javascript and angularjs
 
+
 ##Info
 this is a very funny module , you can use command <i>ping</i> in angularjs
+
+##Install
+```javascript
+    bower install angular-ping
+```
+
+##How to use
 you can use it like the code below:
 ```javascript
    //first you should inject the dependencies
