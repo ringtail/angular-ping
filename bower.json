@@ -1,12 +1,23 @@
 {
-    "name": "angular-ping",
-    "version": "0.0.0",
-    "dependencies": {
-        "angular": "1.2.14"
-    },
-    "devDependencies": {
-        "angular-mocks": "1.2.14",
-        "angular-scenario": "~1.0.7"
-    }
+  "name": "angular-ping",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.2.14"
+  },
+  "devDependencies": {
+    "angular":"1.2.14",
+    "angular-mocks": "1.2.14",
+    "angular-scenario": "~1.0.7"
+  },
+  "homepage": "https://github.com/ringtail/angular-ping",
+  "authors": [
+    "zhongwei.lzw <zhongwei.lzw@alibaba-inc.com>"
+  ],
+  "description": "a angular module with a service which implements command 'ping'",
+  "main": "src/angular-ping/angular-ping.js",
+  "keywords": [
+    "angularjs",
+    "ping"
+  ],
+  "license": "MIT"
 }
-
