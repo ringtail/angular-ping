@@ -38,6 +38,9 @@ module.exports = function (grunt) {
                     '<%= concat.library.dest %>'
                 ]
             },
+            test: {
+                src: ['test/unit/{,*/}*.js']
+            },
             options: {
                 // options here to override JSHint defaults
                 globals: {
